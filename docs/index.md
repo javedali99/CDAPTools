@@ -7,7 +7,7 @@
 [![image](https://img.shields.io/twitter/follow/javedali99?style=social)](https://twitter.com/javedali99)
 [![image](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-## DAPTools (Climate data Downloading And Processing Tools 
+## DAPTools (Climate data Downloading And Processing Tools) 
 **A Python package for downloading and processing climatic data for analyzing multi-hazards risk and compound weather and climate extreme events.**
 
 `CDAPTools` is a collection of functions that allows you to download atmospheric data from different sources, extract data from a NetCDF file for a particular region, process the data for further analysis, visualizing the data and apply two different methodologies we developed for analyzing multi-hazard risks and estimating compound effects of different weather and climate extreme events.
