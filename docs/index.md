@@ -1,7 +1,7 @@
 # Welcome to cdaptools
 
 [![image](https://img.shields.io/pypi/v/cdaptools.svg)](https://pypi.python.org/pypi/cdaptools)
-[![image](https://img.shields.io/conda/vn/conda-forge/cdaptools.svg)](https://anaconda.org/conda-forge/cdaptools))
+[![image](https://img.shields.io/conda/vn/conda-forge/cdaptools.svg)](https://anaconda.org/conda-forge/cdaptools)
 [![image](https://github.com/javedali99/CDAPTools/workflows/docs/badge.svg)](https://javedali99.github.io/cdaptools/)
 [![image](https://github.com/javedali99/CDAPTools/workflows/build/badge.svg)](https://github.com/javedali99/cdaptools/actions?query=workflow%3Abuild)
 [![image](https://img.shields.io/twitter/follow/javedali99?style=social)](https://twitter.com/javedali99)
