@@ -1,4 +1,4 @@
-# CDAPTools : Climate Data Analysis and Processing Tools
+# CDAPTools : Climate data Downloading and Processing Tools
 
 
 [![image](https://img.shields.io/pypi/v/cdaptools.svg)](https://pypi.python.org/pypi/cdaptools)
