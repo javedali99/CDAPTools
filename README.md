@@ -1,8 +1,12 @@
-# CDAPTools : Climate data Downloading and Processing Tools
+# CDAPTools : Climate data Downloading And Processing Tools
 
 
 [![image](https://img.shields.io/pypi/v/cdaptools.svg)](https://pypi.python.org/pypi/cdaptools)
-
+[![image](https://img.shields.io/conda/vn/conda-forge/cdaptools.svg)](https://anaconda.org/conda-forge/CDAPTools))
+[![image](https://github.com/javedali99/CDAPTools/workflows/docs/badge.svg)](https://javedali99.github.io/CDAPTools/)
+[![image](https://github.com/javedali99/CDAPTools/workflows/build/badge.svg)](https://github.com/javedali99/CDAPTools/actions?query=workflow%3Abuild)
+[![image](https://img.shields.io/twitter/follow/javedali99?style=social)](https://twitter.com/javedali99)
+[![image](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 **Tools for downloading and processing climatic data for analyzing multi-hazards risk and compound weather and climate extreme events.**
 
